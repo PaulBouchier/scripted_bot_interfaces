@@ -1,0 +1,9 @@
+# Request - move_spec array. Meaning is specific to move-type
+string[] move_spec
+---
+# Result - result array. Meaning is specific to move-type
+float64[] move_results
+---
+# Feedback - percent complete & some text
+string feedback_text
+float64 progress
