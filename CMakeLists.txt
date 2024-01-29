@@ -13,6 +13,7 @@ find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DriveStraightDebug.msg"
+  "msg/WaypointsDebug.msg"
   "action/Move.action")
 
 if(BUILD_TESTING)
