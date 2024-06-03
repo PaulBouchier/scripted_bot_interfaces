@@ -13,6 +13,7 @@ find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DriveStraightDebug.msg"
+  "msg/RotateOdomDebug.msg"
   "msg/WaypointsDebug.msg"
   "msg/GenericTurtlesimDebug.msg"
   "action/Move.action")
