@@ -3,7 +3,6 @@ float64 heading
 float64 heading_start
 float64 heading_goal
 float64 angle_error
-int64 crossing_pi
 bool rot_stopping
 float64 rot_speed
 float64 angular_cmd
