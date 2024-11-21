@@ -12,4 +12,3 @@ float32 bearing_normalized
 # based on source selection, filtering, etc
 float32 robot_x
 float32 robot_y
-string frame_id
