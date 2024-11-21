@@ -1,6 +1,7 @@
 float64 angle_goal
 float64 heading
 float64 heading_start
+float64 heading_goal
 float64 angle_error
 bool rot_stopping
 float64 rot_speed
